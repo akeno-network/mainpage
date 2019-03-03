@@ -1,0 +1,9 @@
+{
+  "title" : "Akeno Network",
+  "description" : "peer with our lovely cats",
+  "image" : "misc.jpg",
+  "button" : {
+    "text" : "NekomimiRouter",
+    "href" : "https://nekomimirouter.com"
+  }
+}

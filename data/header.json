@@ -1,0 +1,14 @@
+{
+  "brand" : "Akeno Network",
+  "logo" : "logo-black.png",
+  "links" : [
+    {
+      "title" : "Home",
+      "href" : ""
+    },
+    {
+      "title" : "Contact",
+      "href" : "#contact"
+    }
+  ]
+}
